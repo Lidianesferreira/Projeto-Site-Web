@@ -1,4 +1,7 @@
 # Projeto-Site-Web
+
+> Status: Developing ⚠️
+
 <h2>Curso Lucas Caton</h2>
 
 ### Site que demonstra uma página Web de vendas de cursos para programadores que estão iniciando na carreira.
